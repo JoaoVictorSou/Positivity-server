@@ -1,0 +1,22 @@
+{
+  "name": "positivity-api",
+  "version": "1.0.0",
+  "description": "API para o quadro kanban Positivity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVictorSou/positivity-api.git"
+  },
+  "author": "João Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoVictorSou/positivity-api/issues"
+  },
+  "homepage": "https://github.com/JoaoVictorSou/positivity-api#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
